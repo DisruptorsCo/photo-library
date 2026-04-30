@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "repo": "https://github.com/DisruptorsCo/photo-library",
+  "base_url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main",
+  "section_dividers": [
+    {
+      "id": "sd-001",
+      "filename": "section-dividers/workshop-collaboration-01.png",
+      "url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main/section-dividers/workshop-collaboration-01.png",
+      "description": "Group of six people collaborating around a table covered in printed photos and cards, warm office lighting",
+      "mood": "warm",
+      "dark_text_area": "bottom-left",
+      "themes": ["collaboration", "workshop", "design-thinking", "human", "innovation", "co-creation"],
+      "people": true,
+      "technology_present": false,
+      "suitable_for": ["design sprints", "co-design", "workshops", "collaboration", "discovery"]
+    },
+    {
+      "id": "sd-002",
+      "filename": "section-dividers/design-sprint-stickynotes-01.png",
+      "url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main/section-dividers/design-sprint-stickynotes-01.png",
+      "description": "Team standing at a glass wall covered in colourful sticky notes during a design sprint, overhead fluorescent lighting",
+      "mood": "energetic",
+      "dark_text_area": "left",
+      "themes": ["design-sprint", "brainstorming", "agile", "innovation", "workshop", "sticky-notes"],
+      "people": true,
+      "technology_present": false,
+      "suitable_for": ["sprints", "ideation", "brainstorming", "innovation programs", "workshops"]
+    },
+    {
+      "id": "sd-003",
+      "filename": "section-dividers/tech-exhibition-blue-01.png",
+      "url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main/section-dividers/tech-exhibition-blue-01.png",
+      "description": "Person exploring a technology exhibition with illuminated displays and devices, deep blue ambient lighting",
+      "mood": "cool-tech",
+      "dark_text_area": "bottom-left",
+      "themes": ["technology", "innovation", "future", "discovery", "digital", "exhibition"],
+      "people": true,
+      "technology_present": true,
+      "suitable_for": ["technology", "digital transformation", "innovation", "future", "product launches"]
+    },
+    {
+      "id": "sd-004",
+      "filename": "section-dividers/team-presentation-modern-01.png",
+      "url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main/section-dividers/team-presentation-modern-01.png",
+      "description": "Presenter standing at the front of a modern industrial workspace with team seated at table, laptop and video call on large screen",
+      "mood": "warm",
+      "dark_text_area": "bottom-left",
+      "themes": ["presentation", "leadership", "team", "collaboration", "hybrid-work", "meeting"],
+      "people": true,
+      "technology_present": true,
+      "suitable_for": ["leadership", "strategy", "team updates", "results", "recommendations"]
+    },
+    {
+      "id": "sd-005",
+      "filename": "section-dividers/human-ai-contemplative-01.png",
+      "url": "https://raw.githubusercontent.com/DisruptorsCo/photo-library/main/section-dividers/human-ai-contemplative-01.png",
+      "description": "Person viewed from behind facing an ocean sunset through floor-to-ceiling windows, with subtle digital/AI network overlay above their head",
+      "mood": "aspirational",
+      "dark_text_area": "bottom-left",
+      "themes": ["AI", "future", "human-technology", "contemplation", "strategy", "vision", "digital"],
+      "people": true,
+      "technology_present": true,
+      "suitable_for": ["AI", "digital strategy", "future of work", "vision", "transformation", "closing"]
+    }
+  ],
+  "content_photos": []
+}
